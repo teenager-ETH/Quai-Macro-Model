@@ -12,7 +12,7 @@
 
 ## Simulation Architecture V2
 
-- The high level simulation architecture is mostly finalized with a few open questions, left to be addressed in the oustanding questions section
+- The high level simulation architecture is mostly finalized with a few open questions, left to be addressed in the outstanding questions section
 - As a reminder, these pieces can all be viewed in the Obsidian vault for documentation purposes but also are having code written to be bound to them for testing
 - I will now to pan over to the Obsidian canvas to go through the current planned blocks for the simulation
 
