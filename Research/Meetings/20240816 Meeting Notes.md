@@ -28,7 +28,7 @@
         - 2x2 -> 16 subsamples
     - Target time should scale with network size
     - Meant to avoid too much block contention
-    - Target time is a linear DAA, 2 hours, continious distribution with no dead zones over 100 blocks
+    - Target time is a linear DAA, 2 hours, continuous distribution with no dead zones over 100 blocks
 
 
 ## Simulation Model Take-aways & Next Steps
